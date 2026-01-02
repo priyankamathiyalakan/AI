@@ -222,10 +222,6 @@ nexus-search/
 │   ├── index.html       # Search interface
 │   └── login.html       # Login page
 │
-├── static/              # Static files
-│   ├── css/
-│   ├── js/
-│   └── images/
 │
 └── README.md            # This file
 ```
@@ -322,8 +318,3 @@ If you have any questions or need help, please:
 2. Create a new issue with detailed description
 3. Contact me via email
 
----
-
-⭐ If you found this project helpful, please give it a star!
-
-**Made with ❤️ and Python**
